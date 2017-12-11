@@ -13,7 +13,7 @@ The organization is officially known as **March For Science Chicago**
 
 ### Electron Shell Logo
 
-The electron shell logo consists of two parts: the blue electron shells (<span style="background-color:#68B6E5;color:white;">#68B6E5</span>) and the red Chicago star (<span style="background-color:#CA2127;color:white;">#CA2127</span>). If the single color logo is used it should be greyscale ( <span style="color:white;background-color:#000000;">#000000</span>, <span style="background-color:#2B2B2B;color:white;">#2B2B2B</span>, <span style="background-color:#5B5B5B;color:white;">#5B5B5B</span>, #FFFFFF).</p>
+The electron shell logo consists of two parts: the blue electron shells (<span style="background-color:#68B6E5;color:white;">#68B6E5</span>) and the red Chicago star (<span style="background-color:#CA2127;color:white;">#CA2127</span>). If the single color logo is used it should be greyscale ( <span style="color:white;background-color:#000000;">#000000</span>, <span style="background-color:#2B2B2B;color:white;">#2B2B2B</span>, <span style="background-color:#5B5B5B;color:white;">#5B5B5B</span>, #FFFFFF).
 
 The electron shells are rotated at 120 degree increments from the vertical origin. The stroke is not uniform, and should be wider at the narrow curves of the shell ellipse.
 
